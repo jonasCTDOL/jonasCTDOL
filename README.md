@@ -2,7 +2,7 @@
   <!-- Header Ondas -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=210&section=header&text=Jonas%20Spindler&fontSize=42&subtext=Software%20Engineer%20%7C%20Architecture%2C%20GIS%20%26%20Data%20Intelligence&subfontSize=18&fontAlignY=38" width="100%" />
 
-  <!-- Terminal Hacker Typing Animado -->
+  <!-- Terminal Typing Animado em Loop -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=2EA44F&center=true&vCenter=true&width=620&lines=%3E+1.639%2B+contribui%C3%A7%C3%B5es+ativas+no+ano;%3E+Engenheiro+de+Software+%26+Arquiteto+Web;%3E+Sistemas+escal%C3%A1veis%2C+microsservi%C3%A7os+e+GIS;%3E+Alta+cad%C3%AAncia+de+c%C3%B3digo+e+consist%C3%AAncia+di%C3%A1ria" alt="Terminal" />
   </a>
@@ -27,22 +27,23 @@
 
 ---
 
-### 🏙️ Relevo 3D de Contribuições (Skyscrapers Animados)
-> *As colunas erguem-se proporcionalmente ao volume de código entregue.*
+### 🏙️ Relevo 3D de Contribuições (Skyscrapers)
+> *Muralha de contribuições tridimensional gerada a partir do histórico de commits.*
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jonasCTDOL/jonasCTDOL/main/profile-3d-contrib/profile-green-animate.svg" width="90%" alt="Relevo 3D Animado de Contribuições" />
+  <img src="./profile-3d-contrib/profile-night-green.svg" width="95%" alt="Relevo 3D de Contribuições" />
 </p>
 
 ---
 
-### ⚡ Ritmo, Streak & Telemetria
+### ⚡ Ritmo, Streak & Consistência
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=jonasCTDOL&theme=tokyonight&fire=2EA44F&ring=2EA44F&currStreakLabel=2EA44F&hide_border=true&border_radius=8" height="160" alt="Streak Animado" />
 </p>
 
+<!-- Mapa de Contribuições Anual Contínuo (Infraestrutura Estável) -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jonasCTDOL&theme=tokyo-night&area=true&hide_border=true&custom_title=Ritmo%20de%20Commits" width="100%" alt="Activity Graph" />
+  <img src="https://ghchart.rshah.org/2ea44f/jonasCTDOL" width="100%" alt="Mapa Anual de Contribuições" />
 </p>
 
 ---
