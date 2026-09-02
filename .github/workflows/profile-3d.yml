@@ -13,17 +13,25 @@ jobs:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      - name: Checkout
+      - name: Checkout do repositorio
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-      - name: Gerar arquivos 3D
+      - name: Gerar relevo 3D
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: jonasCTDOL
 
-      - name: Salvar no repositorio
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "Atualiza graficos 3D de contribuicao"
-          file_pattern: "profile-3d-contrib/*"
+      - name: Verificar arquivos gerados
+        run: |
+          ls -la profile-3d-contrib/
+
+      - name: Commit e Push para a main
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A profile-3d-contrib/
+          git commit -m "Gerar arquivos 3D de contribuicao"
+          git push origin main
