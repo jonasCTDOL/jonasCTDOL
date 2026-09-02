@@ -1,3 +1,9 @@
+### 🐍 Heatmap Animado
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jonasCTDOL/jonasCTDOL/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jonasCTDOL/jonasCTDOL/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake Game Heatmap" src="https://raw.githubusercontent.com/jonasCTDOL/jonasCTDOL/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=200&section=header&text=Jonas%20Spindler&fontSize=42&subtext=Software%20Engineer%20%7C%20Full%20Stack%20%26%20Data%20Intelligence&subfontSize=18&fontAlignY=38" width="100%" />
 </div>
