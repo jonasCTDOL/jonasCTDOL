@@ -10,7 +10,7 @@
 
 <br/>
 
-<!-- Cartão de Identidade Profissional -->
+<!-- Cartão de Visita Digital -->
 <div align="center">
 
 | 💼 **Perfil Profissional** | **Detalhes & Especialidades** |
@@ -36,10 +36,13 @@
 
 ---
 
-### ⚡ Ritmo, Streak & Métricas
+### ⚡ Ritmo, Streak & Telemetria
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=jonasCTDOL&theme=tokyonight&fire=2EA44F&ring=2EA44F&currStreakLabel=2EA44F&hide_border=true&border_radius=8" height="155" alt="Streak Animado" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jonasCTDOL&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="155" alt="Estatísticas Gerais" />
+  <img src="https://streak-stats.demolab.com/?user=jonasCTDOL&theme=tokyonight&fire=2EA44F&ring=2EA44F&currStreakLabel=2EA44F&hide_border=true&border_radius=8" height="160" alt="Streak Animado" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jonasCTDOL&theme=tokyo-night&area=true&hide_border=true&custom_title=Ritmo%20de%20Commits" width="100%" alt="Activity Graph" />
 </p>
 
 ---
@@ -47,10 +50,6 @@
 ### 🛠️ Arsenal Tecnológico
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,php,laravel,ts,js,react,nextjs,postgres,docker,linux,nginx,git,githubactions,cloudflare&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jonasCTDOL&layout=compact&theme=tokyonight&hide_border=true" height="145" alt="Linguagens mais utilizadas" />
 </p>
 
 <br/>
